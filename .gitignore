@@ -1,0 +1,8 @@
+/.idea/
+/.vscode/
+/app/config.local.php
+/uploads/*
+!/uploads/.htaccess
+!/uploads/LEIA-ME.txt
+.DS_Store
+Thumbs.db

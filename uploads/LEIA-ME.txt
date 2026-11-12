@@ -1,0 +1,1 @@
+As fotos enviadas pelo administrador são armazenadas nesta pasta. Preserve-a ao atualizar o site.
